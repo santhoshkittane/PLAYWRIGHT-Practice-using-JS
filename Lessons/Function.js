@@ -25,6 +25,7 @@ helper.printName("Santhosh")
 var person = new helper.Person()
 person.printAge(30)
 person.printName("Santhosh")
+person.printAge(30)
 
 
 
